@@ -14,8 +14,8 @@ export default function HomePage() {
     <SectionErrorBoundary name="hero">
           <HeroBillboardTiltedCarousel
       tag="Breaking the Mould"
-      title="Building What's Next."
-      description="Helping ambitious businesses create modern digital experiences that inspire confidence, strengthen brands and support long-term growth."
+      title="Disrupt Solutions"
+      description="Innovate. Integrate. Disrupt."
       primaryButton={{
         text: "Start Your Project",
         href: "#contact",
